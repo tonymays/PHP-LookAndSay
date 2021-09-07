@@ -8,7 +8,7 @@ Look and Say Sequence is a sequence of integers:
 
 The PHP script takes a argument of the n'th term:
 ```bash
-# php lookandsay 4
+# php lookandsay.php 4
 ```
 outputs the following
 ```bash
